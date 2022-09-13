@@ -5,6 +5,6 @@ Data Analytics Consulting Virtual Internship - KPMG
 
 This repository includes my tasks as a Data Analytics Intern during my Virtual Internship period at KPMG. The main tasks accomplished during the period of Internship are as follows:
 
-Data Quality Assessment
-Data Insights
-Data Insights and Presentation
+Data Quality Assessment,
+Data Insights,
+Data Insights and Presentation.
